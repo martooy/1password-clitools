@@ -3,23 +3,23 @@ Follow along with [https://developer.1password.com/docs/cli/get-started/](https:
 
 ##Install the thing and make it work
 
-####Install with:
+#### Install with:
 
 `brew install 1password-cli`
 
-####Check version
+#### Check version
 
 `op --version`
 
 Current as of 2024-10-21 is 2.30.0
 
-###Signin
+### Signin
 `eval $(op signin)`
 
-###List Vaults
+### List Vaults
 `op vault ls`
 
-##Make it autocomplete
+## Make it autocomplete
 
 For bash:
 
